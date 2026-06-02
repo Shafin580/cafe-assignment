@@ -15,21 +15,12 @@ Business Description:
 Group Members and Primary Contributions
 ------------------------------------------------------------
 
-[Member 1] — [Sumaiya Islam]
-  Primary contribution: Home page (index.html), hero section, feature cards,
-  about section, opening hours layout, and overall page structure/navigation.
-
-[Member 2] — [Student Name]
-  Primary contribution: Menu page (menu.html), menu category layout,
-  item pricing rows, CSS colour scheme and typography variables.
-
-[Member 3] — [Student Name]
-  Primary contribution: Gallery page (gallery.html), CSS Grid gallery layout,
-  responsive breakpoints, image figure/figcaption structure.
-
-[Member 4] — [Student Name]
-  Primary contribution: Contact page (contact.html), enquiry form HTML and
-  CSS, contact info sidebar, footer layout.
+Sumaiya Islam
+  Primary contribution: All pages and all styling — index.html (home, hero,
+  feature cards, about section, opening hours), menu.html (menu layout and
+  pricing rows), gallery.html (CSS Grid gallery, responsive breakpoints),
+  contact.html (enquiry form, contact info sidebar, footer), and the entire
+  styles.css stylesheet.
 
 ------------------------------------------------------------
 File Structure
@@ -40,7 +31,7 @@ File Structure
   gallery.html    — Gallery page
   contact.html    — Contact page
   styles.css      — Single external stylesheet (all visual styling)
-  images/         — All image assets (royalty-free from Unsplash / Pexels)
+  images/         — All image assets (royalty-free from Pixabay.com)
   README.txt      — This file
 
 ------------------------------------------------------------
